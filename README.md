@@ -2,7 +2,7 @@
 
 This assignment is going to be rather easy (particularly compared to the last assignment) and pretty short.  It is largely based on the information that we covered during lecture that is also in Chapters 1 and 2 of the book.
 
-As before, fork and clone this repository.  Then create a folder for each program you are writing, below.  Name each of the programs you are writing, according to the "task" (e.g. task1.py).  Commit those programs, push them up to your cloned repository, and make a pull request.
+As before, fork and clone this repository.  Then create a directory equal to your username within the `answers` directory.  Name each of the programs you are writing, according to the "task" (e.g. task1.py) and add those to your username folder within the `answers` directory.  Commit those programs, push them up to your cloned repository, and make a pull request.
 
 ## Task 1
 
