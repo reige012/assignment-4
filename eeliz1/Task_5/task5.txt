@@ -1,0 +1,8 @@
+def words():
+    print("cacophony")
+    print("Scolopax")
+    print("Basie")
+    print("atrevete")
+    print("demography")
+
+words()
