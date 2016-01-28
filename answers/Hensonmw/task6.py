@@ -10,7 +10,7 @@ Copyright 2016 Michael W Henson. All rights reserved.
 """
 #Now lets try and make two functions and then have type() tell us what it they are.
 
-import numpy import array
+from numpy import array
 from Bio.Seq import Seq
 
 def data_array():
