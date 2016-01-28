@@ -7,9 +7,9 @@ My five program for Assignment 4
 Created by Michael Henson on 27 Jan 2016.
 Copyright 2016 Michael W Henson. All rights reserved.
 
+
 """
-from numpy import array
-from Bio.Seq import Seq
+#Now lets make another string code doing it differently
 
 def go_state():
 	word1= print("GO")

@@ -8,6 +8,7 @@ Created by Michael Henson on 27 Jan 2016.
 Copyright 2016 Michael W Henson. All rights reserved.
 
 """
+#Now lets make a string code 
 
 def string_code():
 	print("Go", "State!", "Go", "Green", "Go!", sep="\n")
